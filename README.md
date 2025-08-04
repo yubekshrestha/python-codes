@@ -1,2 +1,2 @@
 # python-codes
-all codes while learning python
+all codes i wrote while learning python
